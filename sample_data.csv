@@ -1,0 +1,13 @@
+
+EmployeeID,Name,Department,Age,Salary,City
+101,Esha,IT,21,25000,Mumbai
+102,Rahul,HR,23,30000,Pune
+103,Priya,it,22,28000,mumbai
+104,Amit,Finance,25,35000,Navi Mumbai
+105,Neha,HR,,32000,Pune
+106,Riya,IT,24,,Mumbai
+107,Arjun,Finance,26,40000,Thane
+108,Sam,IT,22,27000,Mumbai
+108,Sam,IT,22,27000,Mumbai
+109,Anjali,HR,23,31000,PUNE
+110,Karan,Finance,,38000,Thane
